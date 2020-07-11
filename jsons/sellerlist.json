@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Ashifa Restaurent",
+    "shortnote": "Biriyani, Chinese",
+    "rating": 4.5,
+    "deliverytime": 30,
+    "costfortwo": 200,
+    "thumbnail": "http://192.168.1.8:8080/images/image1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Anjappar",
+    "shortnote": "North Indian, Chinese, Chittinad",
+    "rating": 3.9,
+    "deliverytime": 34,
+    "costfortwo": 500,
+    "thumbnail": "http://192.168.1.8:8080/images/image2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "The Samosa Factory",
+    "shortnote": "Fast Food",
+    "rating": 4.3,
+    "deliverytime": 33,
+    "costfortwo": 150,
+    "thumbnail": "http://192.168.1.8:8080/images/image3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Chai Kings",
+    "shortnote": "Cafe",
+    "rating": 4.4,
+    "deliverytime": 37,
+    "costfortwo": 200,
+    "thumbnail": "http://192.168.1.8:8080/images/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hot Chips",
+    "shortnote": "South Indian",
+    "rating": 4.2,
+    "deliverytime": 20,
+    "costfortwo": 300,
+    "thumbnail": "http://192.168.1.8:8080/images/image5.jpeg"
+  }
+]
